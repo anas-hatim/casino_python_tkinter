@@ -33,7 +33,7 @@ def main():
 
     jeux = [MachineASous(), Roulette()]
 
-    scores = [["John Doe", "1000"], ["Jane Smith", "500"], ["Bob Johnson", "2000"]]
+    scores = [["John Doe", "1000"], ["yellow Smith", "500"], ["Bob Johnson", "2000"]]
 
     window = tk.Tk()
     window.title("Menu")
